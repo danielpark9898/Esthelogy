@@ -16,9 +16,7 @@ SECRET_KEY = '_bva%ybk3_xve-@gtqd7r0a_uq@cmb4aj#e2su+^p^v97!jjmm'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    '.herokuapp.com'
+    '15.165.77.119'
 ]
 
 INSTALLED_APPS = [
