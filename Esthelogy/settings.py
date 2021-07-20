@@ -16,7 +16,7 @@ SECRET_KEY = '_bva%ybk3_xve-@gtqd7r0a_uq@cmb4aj#e2su+^p^v97!jjmm'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '15.165.77.119'
+    ".ap-northeast-2.compute.amazonaws.com"
 ]
 
 INSTALLED_APPS = [
