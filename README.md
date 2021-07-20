@@ -1,4 +1,4 @@
-This is Esthelogy - an [Opal](https://github.com/openhealthcare/opal) project.
+This is Esthelogy 
 
 To get started, run the following commands:
 
